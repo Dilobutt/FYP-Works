@@ -1,0 +1,641 @@
+timestamp,event_source,client_id,topic,qos,retain,payload_size,payload_is_json,payload_has_temp_hum_keys,msg_rate_in_window,attack_label,description
+1745412465.9621153,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9631152,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9631152,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,3,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9631152,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,4,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9641163,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,5,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9641163,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,6,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412465.9641163,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,7,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412468.740801,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.7418537,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.7418537,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,3,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.7418537,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,4,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.7428546,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,5,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.7428546,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,6,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412468.743854,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,7,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412469.7090049,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7090049,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7100096,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,3,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7110083,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,4,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7110083,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,5,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7120073,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,6,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7120073,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,7,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412469.7130063,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,8,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412470.9436796,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,8,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412471.6656525,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,8,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412474.6690042,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,91,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412474.6690042,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412474.6690042,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,9,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412480.1204545,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412480.1214552,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412480.1214552,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412484.6631434,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412484.6631434,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412486.3773868,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412490.014945,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412490.014945,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412490.014945,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412494.582183,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412494.8898566,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412495.6325502,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412499.7373245,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412499.7373245,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412499.738378,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412505.9272504,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412505.9272504,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412505.928252,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412510.1760557,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412510.1760557,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412510.1760557,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412515.3572972,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412515.3583014,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412515.3583014,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412520.75864,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412520.7596931,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412520.7596931,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412526.7321131,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412526.7321131,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412717.490333,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.491336,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.491336,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,3,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.4923332,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,4,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.4923332,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,5,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.493334,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,6,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412717.5213852,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412717.5213852,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412717.5223892,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,3,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412717.5223892,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,4,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412717.523387,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,5,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412717.523387,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,6,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412718.1010127,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412718.1010127,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,7,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412718.102015,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,7,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412722.3945298,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,8,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412722.3955321,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412723.0050585,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412727.4690447,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412727.4700477,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412727.4700477,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412732.9161482,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412732.9161482,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412733.7774355,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412737.2944727,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412737.597476,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412738.2151368,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412742.4483669,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,DOS_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412742.463359,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412742.463359,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,DOS_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412748.6198895,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,1,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.6198895,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,2,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.6208873,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,3,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.6208873,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,4,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.621891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,5,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.621891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,6,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.621891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,7,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412748.621891,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,8,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412748.622891,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,91,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412749.510888,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,9,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5228877,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,10,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5228877,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,11,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5228877,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,12,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5238876,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,13,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5238876,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,14,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5238876,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,15,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.52489,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,16,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.52489,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,17,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.52489,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,18,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.52489,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,19,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.525889,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,20,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.525889,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,21,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.525889,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,22,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.525889,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,23,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.525889,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,24,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.5268896,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,25,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6598907,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,26,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6778884,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,27,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6788878,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,28,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6788878,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,29,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6788878,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,30,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.679891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,31,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.679891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,32,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.679891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,33,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6808944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,34,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6808944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,35,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6808944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,36,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6808944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,37,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6818945,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,38,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6818945,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,39,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6818945,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,40,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6818945,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,41,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6828928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,42,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6828928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,43,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6828928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,44,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6828928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,45,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6828928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,46,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6838942,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,47,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6838942,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,48,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6838942,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,49,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6848924,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,50,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6868882,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,51,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6878924,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,52,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6878924,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,53,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.688891,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,54,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6898909,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,55,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6898909,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,56,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412749.6908917,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412752.650214,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,57,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412752.6512177,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412752.7312248,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412758.0891562,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412758.0901587,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412758.0901587,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412762.7332847,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412762.8355942,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412762.8365874,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412767.4692128,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412768.790635,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412770.0282843,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412772.4531627,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412772.5251577,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412773.3678532,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412776.0896623,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,2,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0916631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,3,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0926626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,4,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0926626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,5,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0926626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,6,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0926626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,7,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0926626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,8,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,9,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,10,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,11,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,12,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,13,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0936632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,14,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,15,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,16,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,17,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,18,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,19,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,20,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0946648,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,21,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0956645,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,22,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0966637,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,23,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0976632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,24,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0976632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,25,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.0976632,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,26,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1006627,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,27,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1026623,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,28,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1026623,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,29,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1026623,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,30,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1036627,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,31,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1046631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,32,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1046631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,33,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1876705,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,34,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1886716,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,35,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1886716,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,36,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.189672,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,37,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.189672,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,38,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.189672,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,39,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1956697,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,40,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1956697,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,41,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.196671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,42,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.196671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,43,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.196671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,44,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.196671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,45,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.196671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,46,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.1976721,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,47,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.2016704,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,48,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.2016704,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,49,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.202671,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,50,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.6999135,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,51,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.7109113,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,52,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.7109113,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,53,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.7119086,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,54,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.7119086,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,55,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.7119086,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,56,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8817368,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,57,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8877378,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,58,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8877378,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,59,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8877378,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,60,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8887405,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,61,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8887405,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,62,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8897398,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,63,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8897398,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,64,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8897398,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,65,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8907406,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,66,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8907406,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,67,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8907406,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,68,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8907406,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,69,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.891738,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,70,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.891738,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,71,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.891738,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,72,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.891738,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,73,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8927374,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,74,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8927374,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,75,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8927374,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,76,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8927374,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,77,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8937383,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,78,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8937383,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,79,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8937383,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,80,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8937383,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,81,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8947392,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,82,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8947392,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,83,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8957393,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,84,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.8957393,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,85,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.9017365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,86,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.9017365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,87,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412776.902738,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,88,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412777.742657,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,88,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412777.7436354,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412777.7436354,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412777.7446635,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,89,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412777.7446635,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,90,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412777.7446635,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,91,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412777.7456791,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,92,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412777.7456791,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,93,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7249463,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,94,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7486596,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,95,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7497125,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,96,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7497125,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,97,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7497125,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,98,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.750712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,99,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.750712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,100,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.750712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,101,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7517118,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,102,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7517118,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,103,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7517118,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,104,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.752712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,105,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.752712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,106,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.752712,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,107,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.753716,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,108,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.753716,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,109,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7547128,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,110,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7547128,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,111,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7690737,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,112,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7701263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,113,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7701263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,114,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7701263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,115,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7711258,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,116,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7711258,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,117,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7711258,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,118,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7721262,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,119,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7721262,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,120,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7731264,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,121,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7731264,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,122,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7731264,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,123,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7741263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,124,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7741263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,125,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7741263,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,126,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7751257,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,127,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7751257,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,128,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.7751257,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,129,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.776111,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,130,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.814665,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,131,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.814665,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,132,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.814665,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,133,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.8156655,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,134,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412778.8156655,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,135,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.797995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,136,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8000083,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,137,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8000083,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,138,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,139,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,140,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,141,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,142,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,143,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8009944,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,144,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,145,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,146,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,147,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,148,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,149,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,150,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.801995,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,151,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8029928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,152,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412779.8029928,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,153,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.638296,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,154,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6458135,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,155,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.646821,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,156,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.646821,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,157,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6488032,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,158,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6488032,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,159,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.649819,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,160,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.649819,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,161,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6508203,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,162,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6508203,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,163,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6508203,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,164,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.651819,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,165,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.651819,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,166,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.651819,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,167,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6528032,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,168,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6528032,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,169,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6590536,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,170,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6590536,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,171,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.66007,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,172,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.66007,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,173,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.66007,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,174,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.661056,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,175,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.661056,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,176,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6620631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,177,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6620631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,178,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6620631,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,179,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6630695,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,180,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6630695,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,181,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6630695,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,182,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6640546,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,183,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6640546,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,184,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6650572,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,185,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6650572,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,186,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6650572,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,187,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6660702,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,188,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6660702,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,189,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6660702,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,190,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6670692,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,191,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6670692,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,192,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6670692,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,193,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6680694,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,194,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6680694,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,195,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6680694,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,196,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6690633,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,197,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6700544,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,198,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6710548,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,199,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412780.6710548,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,200,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412781.6924124,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,152,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412781.6935787,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,153,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412781.6935787,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,154,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412781.6935787,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,155,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412781.6935787,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,156,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0557542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,119,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0557542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,120,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0567613,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,121,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0567613,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,122,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0567613,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,123,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0567613,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,124,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0577588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,125,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0577588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,126,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0577588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,127,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0577588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,128,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0577588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,129,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0587585,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,130,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0587585,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,131,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0587585,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,132,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0587585,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,133,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0587585,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,134,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0597582,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,135,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0597582,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,136,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0597582,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,137,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0597582,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,138,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,139,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,140,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,141,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,142,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,143,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,144,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,145,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0607605,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,146,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,147,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,148,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,149,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,150,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,151,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,152,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0617588,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,153,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0627599,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,154,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0627599,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,155,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0627599,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,156,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0627599,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,157,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0627599,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,158,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.074756,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,159,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0757556,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,160,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0787542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,161,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0787542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,162,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0827565,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,163,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0827565,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,164,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0827565,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,165,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0827565,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,166,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0827565,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,167,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0837595,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,168,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412782.0887613,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,169,NORMAL,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.841907,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.8429239,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.8429239,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,3,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.843923,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,4,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.843923,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,5,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412858.843923,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,6,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6452096,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,7,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.646248,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,8,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.646248,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,9,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6472483,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,10,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6472483,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,11,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6482577,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,12,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6482577,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,13,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6482577,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,14,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6492627,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,15,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6492627,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,16,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6492627,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,17,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6502626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,18,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.6502626,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,19,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7859356,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,20,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7880719,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,21,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7880719,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,22,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7891095,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,23,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7891095,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,24,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7901254,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,25,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7901254,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,26,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7911181,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,27,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7911181,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,28,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7921216,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,29,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7921216,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,30,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7931242,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,31,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7931242,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,32,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7931242,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,33,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7941244,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,34,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7941244,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,35,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7941244,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,36,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7951238,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,37,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7951238,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,38,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7951238,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,39,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7961092,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,40,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7961092,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,41,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7961092,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,42,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7971241,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,43,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7971241,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,44,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7971241,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,45,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.7981238,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,46,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9233575,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,47,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9243603,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,48,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9253602,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,49,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9253602,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,50,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9253602,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,51,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412859.9253602,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412859.9253602,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412859.9263587,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,3,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412859.9263587,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,4,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412859.9263587,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,5,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412860.4916158,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,6,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412860.4916158,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,7,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412860.4916158,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,52,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.4926546,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,53,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.4926546,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,54,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.493666,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,55,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.493666,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,56,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.493666,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,57,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.494667,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,58,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412860.6225843,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,59,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6236227,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,60,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6236227,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,61,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6236227,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,62,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6246219,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,63,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6246219,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,64,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412860.6246219,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6256366,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6256366,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,3,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6256366,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,4,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6266365,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,5,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6266365,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,6,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412860.6266365,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,7,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412861.6636667,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,65,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.665098,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,66,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6661525,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,67,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6661525,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,68,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6661525,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,69,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6671498,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,70,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6671498,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,71,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6671498,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,72,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6681483,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,73,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6681483,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,74,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6681483,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,75,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6691482,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,76,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6691482,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,77,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6701417,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,78,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6711428,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,79,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6711428,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,80,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6711428,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,81,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6721501,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,82,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6721501,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,83,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6721501,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,84,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.673149,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,85,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.673149,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,86,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.673149,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,87,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6741486,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,88,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6741486,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,89,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6741486,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,90,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.675148,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,91,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.675148,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,92,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.675148,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,93,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6761477,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,94,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6761477,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,95,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6761477,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,96,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6771479,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,97,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6771479,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,98,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6771479,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,99,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6781478,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,100,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6781478,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,101,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6871538,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,102,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6871538,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,103,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6881542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,104,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6881542,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,105,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6931562,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,106,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6986456,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,107,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412861.6986456,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,108,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.2533643,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,109,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,110,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,111,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,112,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,113,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,114,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412863.255365,observer,sensor_001,iot/simulation/data/sensor_001,0,False,1024,False,False,115,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001 (Invalid JSON payload)
+1745412864.0401864,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,110,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412864.0401864,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,8,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412864.6322575,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,8,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412870.197793,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412870.197793,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412870.197793,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412873.8871725,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412873.8871725,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412873.8871725,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412878.866894,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412878.8679316,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412878.8679316,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412883.6291857,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412883.6301851,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412883.6301851,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,UNAUTHORIZED_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412888.5474105,observer,unknown,iot/simulation/admin/config,0,False,61,True,False,1,NORMAL,Message received on iot/simulation/admin/config
+1745412889.1626537,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412889.1626537,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412889.2666535,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412893.9249227,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412893.9259236,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412893.9259236,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412899.0865617,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412899.0865617,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412899.8665738,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412903.915663,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412903.916678,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412903.916678,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412910.001877,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412910.001877,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412910.001877,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412916.061585,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412917.1494305,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745412917.1494305,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412919.1187484,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745412919.1197512,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745412976.3383172,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3383172,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3383172,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,3,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3383172,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,4,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3393188,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,5,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3393188,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,6,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412976.3393188,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,7,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412977.5721564,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5731533,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5731533,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,3,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5731533,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,4,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5731533,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,5,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5731533,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,6,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412977.5741518,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,7,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412979.0443933,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,91,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0453928,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0453928,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,3,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0453928,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,4,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0463946,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,5,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0463946,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,6,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412979.0463946,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,7,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412981.3362603,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,8,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412981.337262,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,8,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412981.337262,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,8,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412985.859707,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412985.8607092,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412987.2783427,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412991.4618766,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412991.4628785,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412991.689388,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745412995.931067,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745412995.931067,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745412996.2760625,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745413001.0543487,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745413001.0543487,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,1,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745413001.0613458,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745413005.5513034,observer,sensor_002,iot/simulation/data/sensor_002,0,False,32,False,False,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002 (Invalid JSON payload)
+1745413005.5782952,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_001/data
+1745413005.5792954,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_003/data
+1745413006.145293,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,2,INVALID_PAYLOAD_PUB,Message received on iot/simulation/data/sensor_002/data
+1745413011.2855787,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413011.2855787,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413011.2865846,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745413016.3003547,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745413016.4193497,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413017.3074856,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413020.8766823,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745413022.7505684,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413022.751622,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413025.954571,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745413025.954571,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413026.61527,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413030.6059215,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_003/data
+1745413030.6069741,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413030.705472,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413035.5074732,observer,sensor_001,iot/simulation/data/sensor_001/data,0,False,93,True,True,2,NORMAL,Message received on iot/simulation/data/sensor_001/data
+1745413035.8287008,observer,sensor_002,iot/simulation/data/sensor_002/data,0,False,93,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_002/data
+1745413037.3226967,observer,sensor_003,iot/simulation/data/sensor_003/data,0,False,92,True,True,1,NORMAL,Message received on iot/simulation/data/sensor_003/data

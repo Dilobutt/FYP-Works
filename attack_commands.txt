@@ -1,0 +1,37 @@
+
+#normal traffic only 
+python iot_simulation_logger.py --normal-duration 60 --attack-type none
+
+
+# Note: Targeting a normal device topic here for DoS.
+# You could target the observer topic or another topic if the broker allows.
+python iot_simulation_logger.py --normal-duration 30 --attack-type dos_pub --attack-target-topic iot/simulation/data/sensor_001 --attack-duration 30 --post-attack-duration 30
+
+
+# Target a hypothetical admin topic that normal devices/attackers shouldn't publish to
+python iot_simulation_logger.py --normal-duration 30 --attack-type unauthorized_pub --attack-target-topic iot/simulation/admin/config --attack-duration 5 --post-attack-duration 30
+
+# Target a normal data topic but send non-JSON or malformed JSON
+python iot_simulation_logger.py --normal-duration 30 --attack-type invalid_payload_pub --attack-target-topic iot/simulation/data/sensor_002 --invalid-payload "{'temp': 25.5, 'malicious': True" --attack-duration 5 --post-attack-duration 30
+
+# Target a hypothetical sensitive topic for subscription
+python iot_simulation_logger.py --normal-duration 30 --attack-type unauthorized_sub --attack-target-topic iot/simulation/private/secrets --attack-duration 5 --post-attack-duration 30
+
+
+
+Understanding the Log File (iot_traffic_log.csv)
+
+Each row in the CSV represents a message observed by the ObserverLogger.
+
+timestamp: Time the message was received by the observer.
+event_source: Always 'observer' in this setup.
+client_id: The ID of the client that published the message, extracted from the payload if available (for normal devices) or intended attacker ID (for attackers, based on simulation phase). Note: This relies on the publisher putting the ID in the payload.
+topic: The MQTT topic the message was published to.
+qos: QoS level of the message.
+retain: Retain flag of the message.
+payload_size: Size of the message payload in bytes.
+payload_is_json: Boolean (True/False) indicating if the payload could be decoded as JSON.
+payload_has_temp_hum_keys: Boolean (True/False) indicating if the payload (if JSON) had the 'temperature' and 'humidity' keys (checking against the expected normal device format).
+msg_rate_in_window: Number of messages received from this client_id within the last RATE_WINDOW_SEC. This is a key feature for detecting DoS.
+attack_label: The label for ML training. This is set by the simulation orchestrator based on which phase (normal or attack type) is currently active.
+description: A human-readable note about the event, including payload validity issues.
